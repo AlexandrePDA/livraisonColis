@@ -22,6 +22,7 @@ transport avec la liste de tous les colis et leurs dimensions est crée.
 
 ## Installation
 
+- Cloner le code
 - Utiliser QT Creator avec la version correspondante dans le CMakeList.txt.
 - Remplir le fichier settings.ini comme ceci :
 
