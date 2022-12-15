@@ -1,0 +1,14 @@
+[General]
+pays="Allemagne,France,Espagne"
+[Petit]
+	longueur=10
+	largeur=10
+	hauteur=10
+[Moyen]
+	longueur=50
+	largeur=50
+	hauteur=50
+[Grand]
+	longueur=100
+	largeur=100
+	hauteur=100
